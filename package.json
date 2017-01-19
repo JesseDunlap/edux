@@ -1,0 +1,19 @@
+{
+  "name": "edux",
+  "version": "0.0.0",
+  "description": "edux is a functional web server for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Jesse Dunlap <jesse@hydrais.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7"
+  }
+}
